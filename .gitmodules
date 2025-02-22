@@ -1,0 +1,3 @@
+[submodule "pengeluaran_uc"]
+	path = pengeluaran_uc
+	url = https://github.com/Arbysixteen/Visual-Programing-UC
